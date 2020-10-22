@@ -6,4 +6,4 @@ This web app tells you 'Yes' or 'No' at random. The app will take in a string an
 
 ## Model:
 
-![diagram of program]('/images/diagram.png')
+![diagram of program]('./images/diagram.png')
